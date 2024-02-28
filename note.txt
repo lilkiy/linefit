@@ -1,0 +1,1 @@
+test和segmentation.launch均运行成功，可以跑kitti数据集并显示在rviz中，跑其他数据集需要修改sensor_height。编译前需要git clone https://github.com/catkin/catkin_simple.git
